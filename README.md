@@ -1,4 +1,4 @@
-<h1 align = "center">👋 Hi, I’m Ishwar Raut <img src="octocat-1674066121381.png" width="75">
+<h1 align = "center">👋 Hi, I’m Ishwar Raut <img src="octocat.png" width="75">
     <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
       
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></p>
