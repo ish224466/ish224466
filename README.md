@@ -3,7 +3,7 @@
       
 <p align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></p>
     
-<h3 align = "center"> Here are some of my Competetive Programming Stats! </h3>
+<h3 align = "center"> Here are some of my Competitive Programming Stats! </h3>
 
 <p align = "center">
 <a href="https://leetcard.jacoblin.cool/ish224466?theme=dark"><img src = "https://leetcard.jacoblin.cool/ish224466?theme=dark"> </a>
