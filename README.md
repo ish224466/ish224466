@@ -19,13 +19,13 @@
 <p align="center">
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/ish224466">
-    <img src="https://cf.leed.at/?name=ishwar_raut&theme=dark" alt="Codeforces Stats" />
+    <img src="https://cf.leed.at/?name=ish224466&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
 
 <p align="center">
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/ish_224466">
-    <img src="https://codechef-readme-stats.vercel.app/api?username=ishwar_raut&theme=dark&border_color=FF6F00" alt="CodeChef Stats" />
+    <img src="https://codechef-readme-stats.vercel.app/api?username=ish_224466&theme=dark&border_color=FF6F00" alt="CodeChef Stats" />
   </a>
 </p>
