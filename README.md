@@ -18,9 +18,9 @@
 
 <p align="center">
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/ish224466" target="_blank">
-    <img src="(https://codeforces-readme-stats.vercel.app/api/card?username=ish224466)" alt="Codeforces Stats" />
-  </a>
+   <a href="https://codeforces.com/profile/harsh_bamane17">
+     <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ish224466&theme=github_dark&force_username=true&border_color=404040" alt="redheadphone Codeforces Stats"
+   </a>
 </p>
 
 <p align="center">
