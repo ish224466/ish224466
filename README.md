@@ -18,14 +18,14 @@
 
 <p align="center">
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/ish224466">
-    <img src="https://cf.leed.at/?handle=ish224466&theme=dark" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/ish224466" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ish224466" alt="Codeforces Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/ish_224466">
+  <!-- CodeChef (community mirror) -->
+  <a href="https://www.codechef.com/users/ish_224466" target="_blank">
     <img src="https://codechef-stats.vercel.app/api?username=ish_224466&theme=dark&border_color=FF6F00" alt="CodeChef Stats" />
   </a>
 </p>
