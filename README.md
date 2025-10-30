@@ -7,8 +7,25 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="100%" alt="Angry Birds" />
 </p>
 
-<h3 align = "center"> Here are some of my Competitive Programming Stats! </h3>
+<h3 align="center">📊 My Competitive Programming Stats</h3>
 
-<p align = "center">
-<a href="https://leetcard.jacoblin.cool/ish224466?theme=dark"><img src = "https://leetcard.jacoblin.cool/ish224466?theme=dark"> </a>
+<p align="center">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/ish224466/">
+    <img src="https://leetcard.jacoblin.cool/ish224466?theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/ish224466">
+    <img src="https://cf.leed.at/?name=ishwar_raut&theme=dark" alt="Codeforces Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/ish_224466">
+    <img src="https://codechef-readme-stats.vercel.app/api?username=ishwar_raut&theme=dark&border_color=FF6F00" alt="CodeChef Stats" />
+  </a>
 </p>
