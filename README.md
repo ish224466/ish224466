@@ -10,7 +10,8 @@
 
 <img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif">
 
-
+<br>
+<br>
 - 🔭 I’m currently working on **CP/DSA**
 
 - 🌱 I’m currently learning **Backend & Devops**
