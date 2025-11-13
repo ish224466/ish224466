@@ -8,7 +8,7 @@
 </p>
 
 
-<img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="70%">
+<img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="60%">
 
 <br>
 
