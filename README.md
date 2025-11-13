@@ -25,7 +25,7 @@
 
 <br>
 <br>
-<br>
+
 <h3 align="center">📊 My Competitive Programming Stats</h3>
 
 <p align="center">
