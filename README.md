@@ -3,10 +3,28 @@
       
 <p align = "center" style="margin-top: -10px;" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer%F0%9F%A7%90" alt="Typing SVG" /></a></p>
 
-<p align="center" style="margin-4">
-  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="100%" alt="Angry Birds" />
+<p align="center">
+  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="80%" alt="Angry Birds" />
 </p>
 
+
+<img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg">
+
+- 🔭 I’m currently working on **CP/DSA**
+
+- 🌱 I’m currently learning **Backend**
+
+- 👯 I’m looking to collaborate on **Hardware Projects**
+
+- 🤝 I’m looking for help with **AI-ML**
+
+- 💬 Ask me about **Competitive Programming, Linux, and of course Sports!**
+
+- 📫 How to reach me **harshabamane1718@gmail.com**
+
+<br>
+<br>
+<br>
 <h3 align="center">📊 My Competitive Programming Stats</h3>
 
 <p align="center">
