@@ -8,9 +8,8 @@
 </p>
 
 
-<img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="80%">
+<img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="70%">
 
-<br>
 <br>
 
 - 🔭 I’m currently working on **CP/DSA**
