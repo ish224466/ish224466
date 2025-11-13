@@ -10,17 +10,16 @@
 
 <img align="right" alt="omg" width="400" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif">
 
+
 - 🔭 I’m currently working on **CP/DSA**
 
-- 🌱 I’m currently learning **Backend**
-
-- 👯 I’m looking to collaborate on **Hardware Projects**
+- 🌱 I’m currently learning **Backend & Devops**
 
 - 🤝 I’m looking for help with **AI-ML**
 
-- 💬 Ask me about **Competitive Programming, Linux, and of course Sports!**
+- 💬 Ask me about **Competitive Programming!**
 
-- 📫 How to reach me **harshabamane1718@gmail.com**
+- 📫 How to reach me **ishwarraut2004@gmail.com**
 
 <br>
 <br>
