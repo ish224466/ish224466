@@ -7,26 +7,24 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
- <td style="vertical-align: top; padding-right: 20px;">
-  <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.7;">
-    <li>🔭 I’m currently working on <strong>CP/DSA</strong></li>
-    <li>🌱 I’m currently learning <strong>Backend & Devops</strong></li>
-    <li>🤝 I’m looking for help with <strong>AI-ML</strong></li>
-    <li>💬 Ask me about <strong>Competitive Programming!</strong></li>
-    <li>📫 Reach me at <strong>ishwarraut2004@gmail.com</strong></li>
-  </ul>
-</td>
+<div style="display: flex; align-items: center; gap: 20px; max-width: 900px; margin: auto;">
+  
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.7;">
+      <li>🔭 I’m currently working on <strong>CP/DSA</strong></li>
+      <li>🌱 I’m currently learning <strong>Backend & Devops</strong></li>
+      <li>🤝 I’m looking for help with <strong>AI-ML</strong></li>
+      <li>💬 Ask me about <strong>Competitive Programming!</strong></li>
+      <li>📫 Reach me at <strong>ishwarraut2004@gmail.com</strong></li>
+    </ul>
+  </div>
 
+  <div>
+    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif"
+         width="300px" alt="coder gif" />
+  </div>
 
-<td style="vertical-align: middle;">
-  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif"
-       width="300px" alt="coder gif">
-</td>
-
-  </tr>
-</table>
+</div>
 
 
 
