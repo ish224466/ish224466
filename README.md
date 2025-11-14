@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 700px; margin: 0 auto; gap: 15px; flex-wrap: wrap;">
   <!-- GIF: Locked small, no takeover -->
-  <div style="flex: 0 0 30%; text-align: center;">
+  <div style="flex: 0 0 20%; text-align: center;">
     <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" style="width: 100%; max-width: 250px; height: auto; object-fit: contain;" alt="programmer gif">
   </div>
   
