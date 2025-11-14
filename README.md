@@ -7,26 +7,24 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<div style="overflow: hidden;"> <!-- Container to clear floats -->
-  <!-- GIF: Floated right, small left margin for closeness -->
-  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" alt="programmer gif" style="float: right; width: 60%; max-width: 250px; height: auto; margin-left: 15px; margin-bottom: 20px;">
-  
-  <!-- Text: Auto-margined to pull closer -->
-  <div style="margin-left: auto; max-width: 60%; line-height: 1.6;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li style="margin-bottom: 8px;">🔭 I’m currently working on <strong>CP/DSA</strong></li>
-      <li style="margin-bottom: 8px;">🌱 I’m currently learning <strong>Backend & Devops</strong></li>
-      <li style="margin-bottom: 8px;">🤝 I’m looking for help with <strong>AI-ML</strong></li>
-      <li style="margin-bottom: 8px;">💬 Ask me about <strong>Competitive Programming!</strong></li>
-      <li style="margin-bottom: 8px;">📫 How to reach me <strong>ishwarraut2004@gmail.com</strong></li>
-    </ul>
-  </div>
-</div>
+<img align="right" alt="omg" width="350" src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif">
 
-<br><br>
+<br>
+
+- 🔭 I’m currently working on **CP/DSA**
+
+- 🌱 I’m currently learning **Backend & Devops**
+
+- 🤝 I’m looking for help with **AI-ML**
+
+- 💬 Ask me about **Competitive Programming!**
+
+- 📫 How to reach me **ishwarraut2004@gmail.com**
+  
+<br>
+<br>
 
 <h3 align="center">📊 My Competitive Programming Stats</h3>
-<!-- Your stats images -->
 
 <p align="center">
   <!-- LeetCode -->
