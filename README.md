@@ -7,7 +7,7 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 700px; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 700px; margin: auto;">
 
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" 
        alt="programmer gif" width="220px">
@@ -21,6 +21,7 @@
   </ul>
 
 </div>
+
 
 <br>
 <br>
