@@ -7,7 +7,7 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<img align="right" alt="omg" width:auto max-width="330"  src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif">
+<img align="right" alt="omg" width="330"  src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif">
 
 <br>
 
