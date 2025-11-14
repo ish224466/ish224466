@@ -7,20 +7,22 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; max-width: 700px; margin: auto;">
+<div style="display: flex; align-items: center; justify-content: center; max-width: 850px; margin: auto; gap: 20px;">
 
-  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" 
-       alt="programmer gif" width="220px">
-
-  <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6; font-size: 16px;">
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.7; font-size: 16px;">
       <li>🔭 I’m currently working on <strong>CP/DSA</strong></li>
       <li>🌱 I’m currently learning <strong>Backend & Devops</strong></li>
       <li>🤝 I’m looking for help with <strong>AI-ML</strong></li>
       <li>💬 Ask me about <strong>Competitive Programming!</strong></li>
-      <li>📫 Reach me at <strong>ishwarraut2004@gmail.com</strong></li>
-  </ul>
+      <li>📫 How to reach me <strong>ishwarraut2004@gmail.com</strong></li>
+    </ul>
+  </div>
 
+  <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif"
+       alt="coder gif" width="300px" />
 </div>
+
 
 
 <br>
