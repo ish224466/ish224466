@@ -7,14 +7,14 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; max-width: 800px; margin: 0 auto; gap: 20px; flex-wrap: wrap;">
-  <!-- GIF: Left-ish, sized responsively -->
-  <div style="flex: 0 0 40%; text-align: center;">
-    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="100%" style="max-width: 300px; height: auto;" alt="programmer gif">
+<div style="display: flex; justify-content: center; align-items: flex-start; max-width: 700px; margin: 0 auto; gap: 15px; flex-wrap: wrap;">
+  <!-- GIF: Locked small, no takeover -->
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" style="width: 100%; max-width: 250px; height: auto; object-fit: contain;" alt="programmer gif">
   </div>
   
-  <!-- List: Right-ish, no bullets needed -->
-  <div style="flex: 1 1 50%; max-width: 400px; line-height: 1.6; text-align: left;">
+  <!-- List: More room now -->
+  <div style="flex: 1 1 60%; max-width: 450px; line-height: 1.6; text-align: left;">
     <p><strong>🔭</strong> I’m currently working on <strong>CP/DSA</strong></p>
     <p><strong>🌱</strong> I’m currently learning <strong>Backend & Devops</strong></p>
     <p><strong>🤝</strong> I’m looking for help with <strong>AI-ML</strong></p>
