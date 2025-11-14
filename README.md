@@ -7,19 +7,21 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: flex-start; max-width: 700px; margin: 0 auto; gap: 15px; flex-wrap: wrap;">
-  <!-- GIF: Locked small, no takeover -->
-  <div style="flex: 0 0 20%; text-align: center;">
-    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" style="width: 100%; max-width: 250px; height: auto; object-fit: contain;" alt="programmer gif">
+<div style="display: table; width: 80%; max-width: 800px; margin: 0 auto; border-collapse: collapse;">
+  <!-- GIF Cell -->
+  <div style="display: table-cell; width: 30%; vertical-align: top; padding: 10px; text-align: center;">
+    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" alt="programmer gif" style="width: 100%; max-width: 250px; height: auto;">
   </div>
   
-  <!-- List: More room now -->
-  <div style="flex: 1 1 60%; max-width: 450px; line-height: 1.6; text-align: left;">
-    <p><strong>🔭</strong> I’m currently working on <strong>CP/DSA</strong></p>
-    <p><strong>🌱</strong> I’m currently learning <strong>Backend & Devops</strong></p>
-    <p><strong>🤝</strong> I’m looking for help with <strong>AI-ML</strong></p>
-    <p><strong>💬</strong> Ask me about <strong>Competitive Programming!</strong></p>
-    <p><strong>📫</strong> How to reach me <strong>ishwarraut2004@gmail.com</strong></p>
+  <!-- Text Cell -->
+  <div style="display: table-cell; width: 70%; vertical-align: top; padding: 10px;">
+    <ul style="list-style: none; padding: 0; margin: 0; line-height: 1.6;">
+      <li style="margin-bottom: 8px;">🔭 I’m currently working on <strong>CP/DSA</strong></li>
+      <li style="margin-bottom: 8px;">🌱 I’m currently learning <strong>Backend & Devops</strong></li>
+      <li style="margin-bottom: 8px;">🤝 I’m looking for help with <strong>AI-ML</strong></li>
+      <li style="margin-bottom: 8px;">💬 Ask me about <strong>Competitive Programming!</strong></li>
+      <li style="margin-bottom: 8px;">📫 How to reach me <strong>ishwarraut2004@gmail.com</strong></li>
+    </ul>
   </div>
 </div>
 <br>
