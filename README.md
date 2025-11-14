@@ -10,7 +10,7 @@
 <div style="display: table; width: 80%; max-width: 800px; margin: 0 auto; border-collapse: collapse;">
   <!-- GIF Cell -->
   <div style="display: table-cell; width: 30%; vertical-align: top; padding: 10px; text-align: center;">
-    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" alt="programmer gif" style="width: 100%; max-width: 250px; height: auto;">
+    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" alt="programmer gif" style="width: 100%; max-width: 25px; height: auto;">
   </div>
   
   <!-- Text Cell -->
