@@ -7,20 +7,21 @@
   <img src="https://github.com/ish224466/ish224466/blob/main/Photos/Angry%20Birds.jpg" width="70%" alt="Angry Birds" />
 </p>
 
-<table align="center" width="80%" style="border: none;">
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="100%" alt="programmer gif">
-    </td>
-    <td width="60%">
-      - 🔭 I’m currently working on **CP/DSA**<br>
-      - 🌱 I’m currently learning **Backend & Devops**<br>
-      - 🤝 I’m looking for help with **AI-ML**<br>
-      - 💬 Ask me about **Competitive Programming!**<br>
-      - 📫 How to reach me **ishwarraut2004@gmail.com**
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: flex-start; max-width: 800px; margin: 0 auto; gap: 20px; flex-wrap: wrap;">
+  <!-- GIF: Left-ish, sized responsively -->
+  <div style="flex: 0 0 40%; text-align: center;">
+    <img src="https://github.com/ish224466/ish224466/blob/main/Photos/programmer.gif" width="100%" style="max-width: 300px; height: auto;" alt="programmer gif">
+  </div>
+  
+  <!-- List: Right-ish, no bullets needed -->
+  <div style="flex: 1 1 50%; max-width: 400px; line-height: 1.6; text-align: left;">
+    <p><strong>🔭</strong> I’m currently working on <strong>CP/DSA</strong></p>
+    <p><strong>🌱</strong> I’m currently learning <strong>Backend & Devops</strong></p>
+    <p><strong>🤝</strong> I’m looking for help with <strong>AI-ML</strong></p>
+    <p><strong>💬</strong> Ask me about <strong>Competitive Programming!</strong></p>
+    <p><strong>📫</strong> How to reach me <strong>ishwarraut2004@gmail.com</strong></p>
+  </div>
+</div>
 <br>
 <br>
 
