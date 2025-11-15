@@ -22,7 +22,7 @@
 - 📫 How to reach me **ishwarraut2004@gmail.com**
   
 <br>
-<br>
+
 
 <h3 align="center">📊 My Competitive Programming Stats</h3>
 
